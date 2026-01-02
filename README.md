@@ -445,3 +445,7 @@ mypy src
 ## License
 
 MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Fizzy is a product and trademark of [37signals](https://37signals.com).
